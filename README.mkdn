@@ -5,6 +5,10 @@
 
 Plack Application For Creating Positive/Negative Collection Files of Haartraning OpenCV.
 
+## SEE ALSO
+
+[Tutorial: OpenCV haartraining (Rapid Object Detection With A Cascade of Boosted Classifiers Based on Haar-like Features) - Naotoshi Seo](http://note.sonots.com/SciSoftware/haartraining.html "Tutorial: OpenCV haartraining (Rapid Object Detection With A Cascade of Boosted Classifiers Based on Haar-like Features) - Naotoshi Seo")
+
 ## AUTHOR
 
 Yusuke Wada aka yusukebe.
