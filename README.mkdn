@@ -1,0 +1,13 @@
+
+# Haartraining App
+
+## DESCRIPTION
+
+Plack Application For Creating Positive/Negative Collection Files of Haartraning OpenCV.
+
+## AUTHOR
+
+Yusuke Wada aka yusukebe.
+
+yusuke@kamawada.com
+
